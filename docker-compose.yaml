@@ -1,0 +1,7 @@
+version: '3'
+
+services:
+  desafio-go-lang:
+    build:  
+      context: .
+    image: pablotdvsm/codeeducation
